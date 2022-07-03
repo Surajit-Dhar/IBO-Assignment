@@ -1,0 +1,17 @@
+#check{
+    padding:8px 15px;
+    border:none;
+    border-radius: 7px;
+    background-color: orange;
+    color:white;
+    cursor:pointer;
+    
+  }
+  #sub{
+    padding:8px 15px;
+    border:none;
+    border-radius: 7px;
+    background-color:#87ffc5;
+    color:black;
+    cursor:pointer;
+  }
